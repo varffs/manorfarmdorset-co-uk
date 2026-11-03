@@ -1,0 +1,4 @@
+# GitHub Pages (Jekyll) settings: keep internal files off the public site.
+exclude:
+  - docs
+  - src
