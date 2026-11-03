@@ -31,8 +31,10 @@ Signups land in a Google Sheet. Updates are sent by hand from the farm Gmail
 5. Send → link tab → copy the URL.
 6. On the home page, add a sign-up button (styled to match the site, not an
    embedded iframe) linking to the form, and restore the copy below.
-7. Fill in `privacy.html` (currently a stub of headings) with what is collected,
-   why, where it is stored (Google), and how to be removed. Link it near the button.
+7. **Required before the button goes live:** fill in `privacy.html` (currently a
+   stub of headings, unlinked) with what is collected, why, where it is stored
+   (Google), and how to be removed. Link it near the button and from the form
+   description.
 
 ## Copy to restore
 
